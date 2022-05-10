@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+
+    <string name="select_pizza">Select pizza</string>
+    <string name="select_size">Select size</string>
+    <string name="select_title">Select title</string>
+    <string name="submit">Submit</string>
+    <string name="change_pizza">Change pizza</string>
+    <string name="change_extra_ingredients">Change extra ingredients</string>
+    <string name="comments">Comments</string>
+    <string name="close_window">Close window</string>
+
+    <string name="select_extra_ingredients">Select extra ingredients</string>
+    <string name="select_ingredients">Select ingredients</string>
+
+    <string name="order_details">Order details</string>
+    <string name="pizza_size">Pizza size:</string>
+    <string name="pizza_title">Pizza title:</string>
+    <string name="extra_ingredients">Extra ingredients:</string>
+    <string name="pizza_price">Pizza price:</string>
+
+    <string name="broccoli">Broccoli</string>
+    <string name="potato">Potato</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="black_olives">Black olives</string>
+    <string name="anchovies">Anchovies</string>
+    <string name="eggplant">Eggplant</string>
+    <string name="capsicum">Capsicum</string>
+</resources>
